@@ -48,7 +48,7 @@ The model was trained using the Adam optimizer, which combines the best properti
 ## Performance Evaluation
 The model's performance was evaluated using the R² score, which measures the proportion of variance in the dependent variable predictable from the independent variables. 
 
-- **R² Score**: 0.9584 on the testing dataset
+- **R² Score**: 0.950996 on the testing dataset
 
 ## Conclusion
 The developed ANN model successfully automates power system load forecasting with high accuracy. The preprocessing steps, including outlier removal and data scaling, significantly contributed to the model's performance. This project demonstrates the potential of machine learning techniques in enhancing power system operations.

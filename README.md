@@ -1,3 +1,5 @@
+# Load Forecasting using Neural Network Model
+
 ## Introduction
 Load forecasting is a critical component of power system planning and operation. Accurate forecasts enable utilities to make informed decisions regarding generation, transmission, and distribution. This project leverages Artificial Neural Networks (ANN) to create a reliable load forecasting model.
 
